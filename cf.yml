@@ -62,7 +62,7 @@ Parameters:
   AdminPlayerNames:
     Type: String
     Description: Op/Administrator Players
-    Default: ''
+    Default: 'NewtonHeath42,EmDub42,KtDub42'
 
   Difficulty:
     Type: String
@@ -92,6 +92,7 @@ Parameters:
   Seed:
     Type: String
     Description: The seed used to generate the world
+    Default: '2945724901123796691'
 
   MaxPlayers:
     Type: Number
